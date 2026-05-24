@@ -1,0 +1,3 @@
+{
+  "postStartCommand": "bash /workspaces/26.1.2-vanilla/launch.sh &"
+}
